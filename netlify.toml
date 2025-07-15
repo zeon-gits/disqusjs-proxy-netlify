@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://disqus.com/api/:splat"
+  to = "http://xhttp.fengjunjie.eu.org"
   status = 200
   force = true
