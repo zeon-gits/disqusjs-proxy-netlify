@@ -1,5 +1,4 @@
 [[redirects]]
   from = "/*"
   to = "https://xhttp.fengjunjie.eu.org/:splat"
-  status = 200
   force = true
